@@ -2,7 +2,7 @@
 
 
 - 🔭 Trabalhando na aréa de TI
-- 🌱 Atualmente estou estudando a lingaugem C e C#
+- 🌱 Atualmente estou estudando diversas linguagens de Programação
 
 <div align="center">
   <a href="https://github.com/MiguelMartins71">

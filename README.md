@@ -1,11 +1,12 @@
 ## 👨‍💻 Software Enginner
 
 <div align="center">
-
-![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelMartins71&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMartins71&layout=compact&langs_count=5&theme=great-gatsby" alt="Top Languages"/>
-
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=MiguelMartins71&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" alt="Miguel GitHub stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMartins71&layout=compact&langs_count=5&theme=great-gatsby" alt="Top Languages" />
+  </div>
 </div>
+
 
 <br>
 

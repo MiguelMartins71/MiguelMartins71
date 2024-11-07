@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelMartins71&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelMartins71&show_icons=true&theme=dark&count_private=true&include_all_commits=true&v=2)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMartins71&layout=compact&langs_count=5&theme=great-gatsby" alt="Top Languages"/>
 
 </div>

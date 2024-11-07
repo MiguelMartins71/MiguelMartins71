@@ -1,35 +1,39 @@
-<h1 align="center">👋 Hello, I'm Miguel! | Software Developer</h1>
-<p align="center">
-  Passionate about building efficient and scalable software solutions. Always eager to explore new technologies and contribute to impactful projects.
-</p>
+## 👨‍💻 Software Developer
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelMartins71&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMartins71&layout=compact&langs_count=16&theme=great-gatsby"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelMartins71&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMartins71&layout=compact&langs_count=8&theme=great-gatsby" alt="Top Languages"/>
+  
 </div>
 
 <br>
 
-<div align="center"> 
-  <img align="center" height="250" alt="coding-time" src="code.gif">
-  <h2 align="center">🛠️ Technologies I Work With</h2>
-  <div style="display: inline_block">
-    <img align="center" height="30" width="40" alt="csharp-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
-    <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" height="30" width="40" alt="angular-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<div align="center">
+  <img align="left" height="250" alt="Coding Time" src="code.gif">
+  
+  ### 🛠️ Tecnologias Utilizadas
+
+  <div style="display: inline_block; margin-top: 10px;">
+    <img align="center" height="30" width="40" alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
+    <img align="center" height="30" width="40" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" height="30" width="40" alt="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+    <img align="center" height="30" width="40" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="40" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   </div>
 </div>
 
 <br>
 
 <div align="center">
-  <h2 align="center">🌐 Connect with Me</h2>
-  <a href="mailto:miguelhmc9@gmail.com" target="_blank">
-    <img width="30" src="gmail.svg" alt="Gmail">
+  
+  ### 🌐 Redes Sociais
+  
+  <a href="mailto:miguelhmc9@gmail.com">
+    <img width="30" src="gmail.svg" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/miguel-carvalho-226522208/" target="_blank">
-    <img width="30" src="linkedin.svg" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/miguel-carvalho-226522208/">
+    <img width="30" src="linkedin.svg" alt="LinkedIn"/>
   </a>
+  
 </div>

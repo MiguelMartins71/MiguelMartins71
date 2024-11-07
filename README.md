@@ -2,8 +2,7 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelMartins71&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true&random=12345
-" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelMartins71&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMartins71&layout=compact&langs_count=5&theme=great-gatsby" alt="Top Languages"/>
 
 </div>

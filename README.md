@@ -1,4 +1,4 @@
-## 👨‍💻 Software Enginner
+## 👨‍💻 Software Developer
 
 <div align="center">
   

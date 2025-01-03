@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Miguel Carvalho</h1>
-<h3 align="center">A passionate Data Analyst from Brazil</h3>
+<h1 align="center">Olá 👋, me chamo Miguel Carvalho</h1>
+<h3 align="center">Analista de Dados</h3>
 
 - 🌱 Atualmente estou focado nos estudos em tudo que envolve dados **Power BI, SQL Server, Linguagem SQL, Python, R, etc**
 

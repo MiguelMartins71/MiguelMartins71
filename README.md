@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, me chamo Miguel Carvalho</h1>
-<h3 align="center">Analista de Dados</h3>
+<h3 align="center">Data Enginner</h3>
 
-- 🌱 Atualmente estou focado nos estudos em tudo que envolve dados **Power BI, SQL Server, Linguagem SQL, Python, R, etc**
+- 🌱 Atualmente estou focado nos estudos em tudo que envolve dados
 
 - 👨‍💻 Meus projetos estão em meu github [https://github.com/MiguelMartins71](https://github.com/MiguelMartins71)
 

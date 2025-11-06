@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, me chamo Miguel Carvalho</h1>
-<h3 align="center">Engenheiro de dados</h3>
+<h3 align="center">Estudante de engenharia de software</h3>
 
-- 🌱 Atualmente estou focado nos estudos e projetos em engenharia de dados
+- 🌱 Atualmente estou focado nos estudos e projetos 
 
 - 👨‍💻 Meus projetos estão em meu github [https://github.com/MiguelMartins71](https://github.com/MiguelMartins71)
 

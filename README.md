@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Miguel Carvalho</h1>
-<h3 align="center">Estudante de engenharia de software</h3>
+<h3 align="center">Engenheiro e Cientista de Dados</h3>
 
 - 🌱 Atualmente estou focado nos estudos e projetos 
 

@@ -2,7 +2,7 @@
 <h3 align="center">Engenheiro de Dados</h3>
 
 - 🌱 Atualmente estou focado nos estudos e projetos
-- 
+  
 - 📫 Como você me encontra **miguelhmc9@gmail.com**
 
 - 📄 Saiba mais sobre minhas experiências [https://www.linkedin.com/in/miguel-carvalho-226522208/](https://www.linkedin.com/in/miguel-carvalho-226522208/)

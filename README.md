@@ -1,10 +1,8 @@
 <h1 align="center">Olá 👋, me chamo Miguel Carvalho</h1>
 <h3 align="center">Engenheiro de Dados</h3>
 
-- 🌱 Atualmente estou focado nos estudos e projetos 
-
-- 👨‍💻 Meus projetos estão em meu github [https://github.com/MiguelMartins71](https://github.com/MiguelMartins71)
-
+- 🌱 Atualmente estou focado nos estudos e projetos
+- 
 - 📫 Como você me encontra **miguelhmc9@gmail.com**
 
 - 📄 Saiba mais sobre minhas experiências [https://www.linkedin.com/in/miguel-carvalho-226522208/](https://www.linkedin.com/in/miguel-carvalho-226522208/)

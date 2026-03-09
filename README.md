@@ -1,7 +1,7 @@
-<h1 align="center">Olá 👋, me chamo Miguel Carvalho</h1>
-<h3 align="center">Engenheiro de Dados</h3>
+<h1 align="center">Me chamo Miguel Carvalho</h1>
+<h3 align="center">Estudando de Sistemas de informação</h3>
 
-- 🌱 Atualmente estou focado nos estudos e projetos
+- 🌱 Atualmente estou focado nos estudos em C#, Java, Cybersecurity e projetos
   
 - 📫 Como você me encontra **miguelhmc9@gmail.com**
 

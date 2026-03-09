@@ -1,4 +1,3 @@
-<h1 align="center">Me chamo Miguel Carvalho</h1>
 <h3 align="center">Estudante de Sistemas de informação</h3>
 
 - 🌱 Atualmente estou focado nos estudos em C#, Java, Cybersecurity e projetos

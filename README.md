@@ -1,6 +1,6 @@
 <h3 align="center">Estudante de Sistemas de informação</h3>
 
-- 🌱 Atualmente estou focado nos estudos em C#, Java, Cybersecurity e projetos
+- 🌱 Atualmente estou focado nos estudos em Engenharia de dados e Cybersecurity
   
 - 📫 Como você me encontra **miguelhmc9@gmail.com**
 

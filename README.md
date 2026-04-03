@@ -1,6 +1,6 @@
-<h3 align="center">Estudante de Sistemas de informação</h3>
+<h3 align="center">Data Enginner</h3>
 
-- 🌱 Atualmente estou focado nos estudos em Engenharia de dados e Cybersecurity
+- 🌱 Atualmente estou focado nos estudos em Engenharia de dados 
   
 - 📫 Como você me encontra **miguelhmc9@gmail.com**
 
